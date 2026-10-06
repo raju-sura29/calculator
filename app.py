@@ -9,5 +9,4 @@ elif c=="*":
     print(num1*num2)
 elif c=="/":
     print(num1/num2)
-#fixed by bunny 
-#nothing
+
